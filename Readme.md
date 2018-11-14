@@ -2,8 +2,7 @@
 
 * Студент: [Ирина Горбунова](https://up.htmlacademy.ru/htmlcss/23/user/918609).
 
-Наставник: Алекс Шевляков
-
+* Наставник:[Алекс Шевляков]. 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
